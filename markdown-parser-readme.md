@@ -27,3 +27,11 @@ __bold__
 + In new Markdown Rules _ italic_, _ italic _ or _italic _, _    italic   _ renders
 
 _italic_
+
+[Link de Prueba](https://github.com/tlylt/rmark)
+
+
+[Link de Prueba] (https://github.com/tlylt/rmark)
+
+[  Link de Prueba  ] ( https://github.com/tlylt/rmark )
+
