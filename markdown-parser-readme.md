@@ -6,6 +6,8 @@ Add Regex Check verification in each pattern in compile time with Typescript nat
 
 #Markdown
 
+#     Markdown **bold**                                                                                                            
+
                # NoTitleMarkdown
 
   # NoTitleMarkdown
